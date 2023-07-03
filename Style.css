@@ -1,0 +1,193 @@
+.principal,
+.principal * {
+  box-sizing: border-box;
+}
+.principal {
+  background: #ffffff;
+  width: 1287px;
+  height: 1390px;
+  position: relative;
+  overflow: hidden;
+}
+.logoeg{
+  width: 174px;
+  height: 176px;
+  position: absolute;
+  left: 95px;
+  top: 15px;
+}
+.fondoedi {
+  border-radius: 67px;
+  opacity: 0.30000001192092896;
+  width: 1440px;
+  height: 1142px;
+  position: absolute;
+  left: -126px;
+  top: 0px;
+}
+.rectangle-1 {
+  background: #5ab507;
+  border-radius: 30px;
+  width: 1287px;
+  height: 91px;
+  position: absolute;
+  left: 0px;
+  top: 200px;
+}
+#menu :hover {
+    color:black;
+}
+
+.somos{
+  width: 405px;
+  height: 165px;
+  position: absolute;
+  left: 861px;
+  top: 21px;
+}
+.principal2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: -19px;
+  top: 228px;
+  width: 211px;
+  height: 39px;
+}
+.quienes-somos {
+  color: #ffffff;
+  text-align: center;
+  font: 700 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 313px;
+  top: 228px;
+  width: 211px;
+  height: 39px;
+}
+.portafolio {
+  color: #ffffff;
+  text-align: center;
+  font: 700 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 650px;
+  top: 228px;
+  width: 211px;
+  height: 39px;
+}
+.contactanos {
+  color: #ffffff;
+  text-align: center;
+  font: 700 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 987px;
+  top: 228px;
+  width: 211px;
+  height: 39px;
+}
+.rectangle-2 {
+  background: #5ab507;
+  border-radius: 35px;
+  opacity: 0.5;
+  width: 734.11px;
+  height: 453.78px;
+  position: absolute;
+  left: 52px;
+  top: 372.9px;
+  transform-origin: 0 0;
+  transform: rotate(-4.288deg) scale(1, 1);
+}
+.rectangle-3 {
+  background: #5ab507;
+  border-radius: 35px;
+  opacity: 0.5;
+  width: 324.2px;
+  height: 211.58px;
+  position: absolute;
+  left: 865px;
+  top: 484.16px;
+  transform-origin: 0 0;
+  transform: rotate(-0.558deg) scale(1, 1);
+}
+.equipotrabajo {
+  border-radius: 42px;
+  width: 680px;
+  height: 430px;
+  position: absolute;
+  left: 110.34px;
+  top: 373px;
+  transform-origin: 0 0;
+  transform: rotate(0.045deg) scale(1, 1);
+}
+.nuestro-equipo-de-trabajo-confiable-y-calificado {
+  color: #0d0c0c;
+  text-align: center;
+  font: 700 italic 24px "Inter", sans-serif;
+  position: absolute;
+  left: 892px;
+  top: 536px;
+  width: 272px;
+  height: 28px;
+}
+.rectangle-4 {
+  background: #5ab507;
+  border-radius: 30px;
+  width: 1287px;
+  height: 115px;
+  position: absolute;
+  left: 0px;
+  top: 1260px;
+}
+.glossy-small-base {
+  background: #5ab507;
+  border-radius: 8px;
+  padding: 8px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 289px;
+  height: 58px;
+  position: absolute;
+  left: 886px;
+  top: 361px;
+  box-shadow: inset 0px -8px 10px 0px rgba(0, 0, 0, 0.2),
+    inset 0px 4px 4px 0px rgba(255, 255, 255, 0.5);
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+}
+.cheerful-button-false {
+  padding: 10px 0px 10px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 172px;
+  height: 59px;
+  position: absolute;
+  left: 940px;
+  top: 360px;
+}
+.administraci-n-en-l-nea {
+  color: #ffffff;
+  text-align: center;
+  font: 700 20px/16px "Inter", sans-serif;
+  position: relative;
+}
